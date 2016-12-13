@@ -1,0 +1,13 @@
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\bin\Debug\NAudio.dll
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\bin\Debug\NAudio.xml
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\obj\Debug\UltimateDJApplication.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\obj\Debug\WindowsFormsApplication2.g.resources
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\obj\Debug\UltimateDJApplication.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\UltimateDJApplication\UltimateDJApplication\obj\Debug\WindowsFormsApplication2.Form1.resources

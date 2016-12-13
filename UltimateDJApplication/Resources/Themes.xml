@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<themeCollection>
+  <theme name="Default">
+    <colorScheme name="Dark">
+      'Focus Highlight
+      FocusHlight=#ff8800
+      'Button
+      BtnBorder=#666666
+      BtnFace=#444444
+      BtnFaceHover=#888888
+      BtnFaceActive=#222222
+      BtnText=#eeeeee
+      BtnTextHover=#ffffff
+      'Label
+      LabelText=#ffffff
+      'Text Field
+      TxtBorder=#888888
+      TxtFace=#eeeeee
+      TxtFaceHover=#ffffff
+      TxtTxt=#222222
+      TxtTxtFocus=#000000
+      'Turntable
+      TurntableFace=#ffffff
+      TurntableText=#000000
+      TurntableRemainingText=#dd0000
+      TurntableProgressBackgnd=#dddddd
+      TurntableProgressForegnd=#bbbbbb
+      TurntableSpinner=#000000
+      TurntableSpinnerPitch=#dd0000
+    </colorScheme>
+    <colorScheme name="HighContrast">
+    </colorScheme>
+  </theme>
+</themeCollection>
